@@ -1,0 +1,4 @@
+ls
+who
+pwd
+

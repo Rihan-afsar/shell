@@ -1,0 +1,10 @@
+echo enter file name
+read fn
+if [ -f $fn -a -r $fn -a -w $fn -a -x $fn ]
+then
+echo $fn have read write execute permission
+else
+echo $fn denied permission
+fi
+
+

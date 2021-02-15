@@ -1,0 +1,4 @@
+clear
+tput bold
+echo "Enter a  number"
+tput sgr0

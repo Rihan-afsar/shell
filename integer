@@ -1,0 +1,7 @@
+echo -e "Enter one number:\c" 
+read a
+echo -e "Enter 2nd number:\c"
+read b
+echo a value is : $a
+echo b value is : $b
+
