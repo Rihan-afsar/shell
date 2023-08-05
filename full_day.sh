@@ -13,4 +13,3 @@ elif [ $hour -ge 16 -a $hour -lt 12 ]
 then
 echo Good Night
 fi
-
