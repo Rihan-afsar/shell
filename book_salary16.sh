@@ -1,3 +1,4 @@
+# Enter salary calculation
 echo -e "Enter basic salary: \c"
 read bs
 if [ $bs -lt 1500 ] 
