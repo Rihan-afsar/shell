@@ -1,3 +1,4 @@
+# days times
 a=`date |cut -d" " -f4`
 b=`echo $a|cut -d":" -f1`
 
