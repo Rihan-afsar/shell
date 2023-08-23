@@ -1,3 +1,4 @@
+#Check file name and permission 
 echo -e "Enter file Name: \c"
 read fname
 if [ ! -z "$fname" ] 
