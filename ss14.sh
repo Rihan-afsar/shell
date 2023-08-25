@@ -1,3 +1,4 @@
+# copy script 
 echo "Enter source file and trget file name."
 read source target
 if cp $source $target
@@ -7,4 +8,3 @@ else
 
 echo fail copy try again...
 fi
-
