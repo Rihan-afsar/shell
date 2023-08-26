@@ -1,3 +1,4 @@
+#Enter a number and perform mathmatic calculaton 
 echo -e "Enter one number: \c"
 read a
 echo -e "Enter second digit number: \c"
