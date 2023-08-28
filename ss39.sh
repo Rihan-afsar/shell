@@ -1,3 +1,4 @@
+#showing file throw the scripts
 echo Enter file name
 read fname
 terminal=`tty`
