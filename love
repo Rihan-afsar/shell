@@ -1,4 +1,5 @@
-clear
+#use the tput throw terminal.
+Clear
 tput bold
 echo "Enter a  number"
 tput sgr0
