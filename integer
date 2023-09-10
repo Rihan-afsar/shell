@@ -1,3 +1,4 @@
+#pass variable in terminal
 echo -e "Enter one number:\c" 
 read a
 echo -e "Enter 2nd number:\c"
