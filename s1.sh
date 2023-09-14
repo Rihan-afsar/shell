@@ -1,4 +1,4 @@
-#compair name 
+#Name compair
 echo "enter your name "
 read name
 if [ "$name" = "saba" ]
