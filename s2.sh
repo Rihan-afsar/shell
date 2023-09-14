@@ -1,3 +1,4 @@
+# check number
 echo "enter a num "
 read num
 if [ $num -le 10 ]
