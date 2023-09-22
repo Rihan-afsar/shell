@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#Arithmetic oprater
 a=10
 b=20
 
