@@ -1,4 +1,4 @@
-echo "Enter source file and trget file name."
+echo "Enter source file and target file name."
 read source target
 if cp $source $target
 then 
@@ -7,4 +7,3 @@ else
 
 echo fail copy try again...
 fi
-
