@@ -1,3 +1,4 @@
+# echo "Enter the date and showing per day status"
 a=`date|cut -d" " -f4
 hour=`echo $a|cut -d":" -f1`
 min=`echo $a|cut -d":" -f2`
