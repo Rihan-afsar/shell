@@ -1,3 +1,4 @@
+# Copy scripts 
 echo Enter source and Target file names
 read source target
 if cp $source $target
