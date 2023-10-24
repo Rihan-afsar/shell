@@ -1,3 +1,4 @@
+# Status of student mark
 echo -e "Enter marks in five subjects: \c"
 read m1 m2 m3 m4 m5
 per=`expr \( $m1 + $m2 + $m3 + $m4 + $m5 \) / 5`
